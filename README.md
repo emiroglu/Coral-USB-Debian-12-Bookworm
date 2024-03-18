@@ -43,7 +43,9 @@ Install pipenv and set the environment variable such that the virtual environmen
     pip install pipenv
     add export PIPENV_VENV_IN_PROJECT=1
 
-## Install libedgetpu library and pycoral (https://coral.ai/docs/accelerator/get-started/)
+## Install libedgetpu library and pycoral
+
+Below follows from: https://coral.ai/docs/accelerator/get-started/
 
 Install libedgetpu1-std library:
 
