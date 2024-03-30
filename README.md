@@ -1,4 +1,4 @@
-# Coral-USB-Debian-12-Bookworm
+# Coral USB Accelerator on Debian 12 (Bookworm)
 **This installation is tested on a Raspberry Pi 4B with a fresh installation of Debian 12 Bookworm. It does not require manual recompiling any of the libraries or modules.**
 
 Update the packages to the latest version.
