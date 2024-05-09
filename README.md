@@ -19,7 +19,7 @@ Add the following to the `.bashrc` and restart shell:
     echo 'eval "$(pyenv init -)"' >> ~/.bashrc
     exec $SHELL
 
-`pynev` builds from source. Install Python build dependencies for installing different versions following the instructions on https://github.com/pyenv/pyenv/wiki#suggested-build-environment:
+`pyenv` builds from source. Install Python build dependencies for installing different versions following the instructions on https://github.com/pyenv/pyenv/wiki#suggested-build-environment:
     
     sudo apt update
     sudo apt install build-essential libssl-dev zlib1g-dev \
